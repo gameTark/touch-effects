@@ -1,0 +1,6 @@
+CHOP:noise
+tile -225 150 130 90
+flags =  viewer 1 parlanguage 0
+color 0.55 0.55 0.55 
+view 9 -1 1 6.15135 -1.5 1.5 -535.448 -438.648 -5.5685 -4.67977 5 2 10264 10 1 0
+end

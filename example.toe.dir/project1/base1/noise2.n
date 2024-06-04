@@ -1,0 +1,5 @@
+TOP:noise
+tile -75 275 126 101
+flags =  viewer 1 parlanguage 0
+color 0.55 0.55 0.55 
+end

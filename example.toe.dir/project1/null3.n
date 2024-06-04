@@ -1,0 +1,9 @@
+CHOP:null
+tile 650 -450 130 90
+flags =  viewer 1 activate on export on parlanguage 0
+inputs
+{
+0 	sin_cos/out2
+}
+color 0.55 0.55 0.55 
+end

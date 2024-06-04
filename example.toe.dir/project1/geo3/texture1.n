@@ -1,0 +1,10 @@
+SOP:texture
+tile 175 117 131 93
+flags =  viewer 1 render on display on parlanguage 0
+inputs
+{
+0 	sphere1
+}
+color 0.55 0.55 0.55 
+view 28 0.2 1 1 0 0 1 0 0 1 -0.00733686 -7.34477e-12 0.00603738 1 0 0 0 0 1 0 0 0 0 1 0 0.0074568 -6.59315e-15 -4.60195 1 16 1 1 1 195 4883 1 -1 1 1 11 0 0 0 3 0 1
+end

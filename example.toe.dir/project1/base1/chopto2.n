@@ -1,0 +1,6 @@
+TOP:chopto
+tile -225 275 130 48
+flags =  viewer 1 parlanguage 0
+color 0.55 0.55 0.55 
+view 3 0 0.0600653 1 4 0 1 0 0
+end

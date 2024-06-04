@@ -1,0 +1,7 @@
+?
+amp 67108864 0.33
+rate 201326608 60 me.time.rate
+timeslice 67108864 on
+autoexportroot 201326609 "" parent()
+exporttable 67108864 lfo1_export
+?
